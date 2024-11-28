@@ -68,4 +68,12 @@ For questions or support, feel free to reach out:
 Email: patel.aryanbhai246@gmail.com
 GitHub: https://github.com/Aryanpatel00
 
+## user signin or signup interface
+![WhatsApp Image 2024-11-28 at 12 07 38_066fd759](https://github.com/user-attachments/assets/49daa5d0-e870-4ba9-b933-1c52b2d91d3d)
+![WhatsApp Image 2024-11-28 at 12 07 42_f671c351](https://github.com/user-attachments/assets/53719642-b52a-4d76-8869-a24e0805231a)
+
+
+## user dashboard interface
+![WhatsApp Image 2024-11-28 at 09 33 51_7ab5ac16](https://github.com/user-attachments/assets/f2335d13-638a-40e5-af8a-137c6e20baf4)
+
  
